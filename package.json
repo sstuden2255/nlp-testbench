@@ -1,0 +1,29 @@
+{
+  "name": "nlp-testbench",
+  "version": "1.0.0",
+  "description": "Project for testing the relevence of different node packages for various Natural Language Processing tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sstuden2255/nlp-testbench.git"
+  },
+  "keywords": [
+    "nlp"
+  ],
+  "author": "Simon Studen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sstuden2255/nlp-testbench/issues"
+  },
+  "homepage": "https://github.com/sstuden2255/nlp-testbench#readme",
+  "dependencies": {
+    "compromise": "^14.4.5",
+    "natural": "^5.2.3",
+    "node-nlp": "^4.24.0",
+    "sentiment": "^5.0.2",
+    "wink-nlp-utils": "^2.0.7"
+  }
+}
